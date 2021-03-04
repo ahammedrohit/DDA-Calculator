@@ -1,7 +1,6 @@
 # Simple DDA Calculator
 
-Click on Let's Go 
-Give values of two points and it will generate the output coordinates in Console.
+Click on Let's Go and Give values of two points and it will generate the output coordinates in Console.
 
 To see results go to Console.
 
