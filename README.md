@@ -1,4 +1,4 @@
-# Simple DDA Calculator
+# Simple Digital Differential Analyzer(DDA) Calculator
 
 Click on Let's Go and Give values of two points and it will generate the output coordinates in Console.
 
